@@ -132,3 +132,20 @@ footer p{
     margin:0;
     text-shadow: 2px 2px darkgray;
 }
+
+.fa:hover {
+    opacity: 0.7;
+  }
+
+  .fa{
+    background-color: rgba(137, 43, 226, 0.192);
+    color: black;
+    padding: 3px;
+    margin: 2px;
+  }
+
+
+  .socialMediaDiv{
+    display: flex;
+    justify-content: center;
+  }
