@@ -61,11 +61,13 @@ nav ul li a{
     font-size: 18px;
     display: block;
     text-decoration: none;
+    transition: all 500ms ease-in-out;
 }
 
 nav ul li a:hover{
-    background-color: rgb(56, 213, 24);
+    background-color: black;
     color: rgb(255, 255, 255,1);
+    transform: scale(1.1);
 }
 
 /* Slider */
